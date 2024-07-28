@@ -1,5 +1,5 @@
 # ISense Live Kata Exercise
-Live code session to create basic password strength generator
+Live code session(~1h) to create basic password strength generator, while following TDD practice.
 
 ## Requirements
 Valid password is considered as followed:
